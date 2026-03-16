@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Samuel Zenebe – Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; padding: 20px; }
-    h1, h2 { color: #f59e0b; }
-    a { color: #f59e0b; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    ul { list-style: none; padding-left: 0; }
-    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
-    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-    th { background-color: #f5f5f5; }
-  </style>
-</head>
-<body>
+
 
   <h1>Samuel Zenebe – Portfolio</h1>
 
