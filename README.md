@@ -11,4 +11,4 @@ A static personal portfolio website showcasing my projects, skills, certificates
 ## Built With
 - HTML5
 - CSS3
-- JavaScript (minimal)
+
