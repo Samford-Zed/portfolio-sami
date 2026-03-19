@@ -1,4 +1,4 @@
-# Samuel Zenebe Portfolio
+# Samuel Zenebe Portfolio(web programmming project)
 
 A static personal portfolio website showcasing my projects, skills, certificates, and contact information.
 
